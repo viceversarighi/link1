@@ -23,7 +23,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: space-evenly;
-  background: linear-gradient(to top left, #6c2064, #39b3c1);
+  background: linear-gradient(to top left, #6c2064, #c1ba39);
 }
 
 img {
@@ -31,15 +31,6 @@ img {
   max-width: 300px;
 }
 
-/*h1 {
-  //position: absolute;
-  //margin-top: -400px;
-  color: rgb(177, 77, 27);
-} */
-
-.number {
-  color: rgb(0, 0, 0);
-}
 
 /*buttons*/
 .btn {
